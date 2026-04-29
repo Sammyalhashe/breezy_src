@@ -1,0 +1,14 @@
+Apr 10 08:42:05 starship kwin_wayland[2426]: Breezy - effect disabled; expected XDG_SESSION_CLASS=user, got: ""
+Apr 10 17:51:21 starship kcmshell6[110542]: Could not find KCM with given Id "breezy_desktop_config"
+Apr 10 17:51:21 starship kcmshell6[110542]: "Could not find plugin breezy_desktop_config"
+Apr 10 17:51:21 starship kcmshell6[110542]: "Could not find plugin breezy_desktop_config"
+Apr 10 17:55:13 starship systemd[2323]: Started Breezy Desktop.
+Apr 10 17:55:23 starship systemd[2323]: Started Breezy Desktop - KWin Effect Settings.
+Apr 10 17:55:23 starship kcmshell6[116752]: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: App info not found for 'breezy_desktop_config'")
+Apr 10 17:55:30 starship kcmshell6[116752]:   File "/run/current-system/sw/share/kwin/effects/breezy_desktop/xrdriveripc_runner.py", line 69, in main
+Apr 10 17:55:30 starship kcmshell6[116752]:   File "/run/current-system/sw/share/kwin/effects/breezy_desktop/xrdriveripc.py", line 221, in write_config
+Apr 10 17:55:30 starship kcmshell6[116752]:   File "/run/current-system/sw/share/kwin/effects/breezy_desktop/xrdriveripc.py", line 213, in write_config
+Apr 10 17:55:32 starship kcmshell6[116752]:   File "/run/current-system/sw/share/kwin/effects/breezy_desktop/xrdriveripc_runner.py", line 69, in main
+Apr 10 17:55:32 starship kcmshell6[116752]:   File "/run/current-system/sw/share/kwin/effects/breezy_desktop/xrdriveripc.py", line 221, in write_config
+Apr 10 17:55:32 starship kcmshell6[116752]:   File "/run/current-system/sw/share/kwin/effects/breezy_desktop/xrdriveripc.py", line 213, in write_config
+Apr 10 17:56:04 starship systemd[2323]: app-breezy_desktop@035ecd67570048448cfec9605ed102b1.service: Consumed 3.677s CPU time over 41.684s wall clock time, 53.7M memory peak.
