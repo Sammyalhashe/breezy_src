@@ -97,14 +97,18 @@
         ]
       },
       "locked": {
-        "path": "../xr_driver_src",
-        "type": "path"
+        "lastModified": 1777499647,
+        "narHash": "sha256-M68iOdaQ5kvm+x/YSqMuCE/kfjNtjlWi+LJZywKjBbw=",
+        "owner": "Sammyalhashe",
+        "repo": "xr_driver_src",
+        "rev": "b1d950034976c6e65e36b37614e2babe880e0088",
+        "type": "github"
       },
       "original": {
-        "path": "../xr_driver_src",
-        "type": "path"
-      },
-      "parent": []
+        "owner": "Sammyalhashe",
+        "repo": "xr_driver_src",
+        "type": "github"
+      }
     }
   },
   "root": "root",
